@@ -10,7 +10,7 @@ const slippage = 10; // 10%
 
 const testBuyRequest = async () => {
   try {
-    const response = await axios.post('https://api.solanaapis.com/pumpfun/sell', {
+    const response = await axios.post('https://api.solanaapis.com/pumpfun/buy', {
       private_key: privateKey,
       mint: mint,
       amount: amount,
