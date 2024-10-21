@@ -30,7 +30,7 @@ The **Pumpfun Trade API** simplifies trading on Pumpfun by allowing you to send 
 
 ### 💰 **System Fee**
 
-Unlike other services that charge a percentage-based fee, the **Pumpfun Trade API** adds a fixed fee of **0.001 SOL** for every buy or sell trade, ensuring transparency and predictability in your trading costs.
+Unlike other services that charge a percentage-based fee, the **Pumpfun Trade API** adds a fixed fee of **0.0001 SOL** for every buy or sell trade, ensuring transparency and predictability in your trading costs.
 
 ---
 
